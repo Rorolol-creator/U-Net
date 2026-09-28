@@ -1,0 +1,22 @@
+[project]
+name = "rempy-tp"
+version = "0.1.0"
+authors = ["Baptiste Esteban"]
+requires-python = "==3.12.*"
+dependencies = [
+    "autograd>=1.8.0",
+    "dtale==3.19.1",
+    "imageio==2.37.2",
+    "kagglehub>=1.0.2",
+    "lxml==6.0.2",
+    "matplotlib==3.10.8",
+    "notebook==7.5.3",
+    "numba==0.63.1",
+    "numpy==2.3.5",
+    "pandas==3.0.0",
+    "pycocotools>=2.0.11",
+    "scikit-learn>=1.8.0",
+    "torch>=2.12.1",
+    "torchvision>=0.27.1",
+    "tqdm>=4.68.3",
+]
